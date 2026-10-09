@@ -1,6 +1,6 @@
 ---
 name: dsh-third-party-plugin-install
-description: 当用户要求安装第三方 DSH 或 Cordis 插件时使用；指导 Agent 仅通过 dsh CLI 将指定 npm 包安装到 desktop profile，并在安装后报告结果和加载要求。
+description: 当用户要求在当前 DSH Desktop 中安装第三方 DSH/Cordis 插件时使用；先确认包名和版本，再仅通过 dsh plugin --profile desktop add 安装并核实结果。不用于开发插件或安装 Agent skill。
 ---
 
 # 第三方 DSH 插件安装
