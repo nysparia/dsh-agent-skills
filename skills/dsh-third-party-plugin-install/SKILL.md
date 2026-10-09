@@ -1,6 +1,6 @@
 ---
 name: dsh-third-party-plugin-install
-description: 当用户要求在当前 DSH Desktop 中安装第三方 DSH/Cordis 插件时使用；先确认包名和版本，再仅通过 dsh plugin --profile desktop add 安装并核实结果。不用于开发插件或安装 Agent skill。
+description: 安装第三方 DSH/Cordis 插件时使用；仅通过 dsh plugin --profile desktop add 安装，不用于开发插件或安装 Agent skill。
 ---
 
 # 第三方 DSH 插件安装
