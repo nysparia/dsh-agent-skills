@@ -1,6 +1,6 @@
 ---
 name: dsh-third-party-plugin-install
-description: 安装第三方 DSH/Cordis 插件时使用。
+description: 安装第三方 DSH/Cordis 插件时必须使用。
 ---
 
 # 第三方 DSH 插件安装
